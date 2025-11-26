@@ -52,7 +52,7 @@ README.md
 #How to Run the Project
 
 Clone the repository
-git clone https://github.com/your-username/Diabetes-Prediction.git
+git clone https://github.com/sarveshgedam/Diabetes-Prediction.git
 
 cd Diabetes-Prediction
 
